@@ -1,4 +1,4 @@
-![Mediolano.app](https://mediolano.app/wp-content/uploads/2024/09/mediolano-logo-dark-1.svg)
+![Mediolano.app](https://mediolano.app/wp-content/uploads/2025/01/AegntiIP.png)
 
 # AgentIP
 ### AI Agent for Intellectual Property Management. 
@@ -36,3 +36,5 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+![Mediolano.app](https://mediolano.app/wp-content/uploads/2024/09/mediolano-logo-dark-1.svg)
